@@ -4,7 +4,7 @@ using namespace std;
 int operation(int n, int k)
 {
     int result = 0;
-    
+    //5 = 4,3,-3,2
 
 
     return result;
